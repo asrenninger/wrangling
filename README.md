@@ -6,3 +6,4 @@ This repository collects graphic and analytic miscellany from a course using pyt
 ![](viz/morphology.gif)
 ![](viz/us_zip_series.png)
 ![](viz/us_3d_multiples.png)
+![](viz/nyc.gif)
