@@ -3,6 +3,6 @@
 
 This repository collects graphic and analytic miscellany from a course using python for spatial analysis and data science, with a focus on big and open data.   
 
-![](viz/urban-morphology.png)
+![](viz/morphology.gif)
 ![](viz/us_zip_series.png)
 ![](viz/us_3d_multiples.png)
