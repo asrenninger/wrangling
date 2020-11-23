@@ -1,7 +1,7 @@
 # Final Project
 ## The Geography of Urban Form in America (and abroad)
 
-This project will use raster and vector data on the form of cities to compare urban core morphologies across America. To do this, I will aggregate street networks, building footprints, vegetation and population from a combination of open source resources.   
+This project will use raster and vector data on the form of cities to compare urban core morphologies across America. To do this, I will aggregate street networks, building footprints, vegetation and population from a combination of open source resources. The result will be a similarity score for cities, focusing on extracts of downtowns, allowing users to compare built environments across the country, along with twin cluster analyses to build categories of these environs.     
 
 1. [datasets](#datasets)
 2. [questions](#questions)
@@ -20,7 +20,7 @@ I will also compute how repetitive a city using a measure called *fractal dimens
 #### Fractal Dimension by Buildings and Streets
 ![](https://raw.githubusercontent.com/asrenninger/wrangling/master/viz/fractal-dimension.png)
 
-[Oak Ridge National Laboratory](https://geoplatform.maps.arcgis.com/home/item.html?id=e431a6410145450aa56606568345765b) provides information on daytime and nighttime population at a resolution of 100 meters, which we can use to estimate how busy an area is—and whether or not people are concentrated on a few pixels or many, which also helps describe the character of an area.  
+[Oak Ridge National Laboratory](https://geoplatform.maps.arcgis.com/home/item.html?id=e431a6410145450aa56606568345765b) provides information on daytime and nighttime population at a resolution of 100 meters, which we can use to estimate how busy an area is—and whether or not people are concentrated on a few pixels or many, which also helps describe the character of an area.   
 
 #### Day-Night Variations
 ![](https://raw.githubusercontent.com/asrenninger/wrangling/master/viz/spikes.gif)
