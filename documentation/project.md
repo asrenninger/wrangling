@@ -49,8 +49,8 @@ This will include (though possibly more):
 + Daytime/Nighttime population
 + Vegetation index
 
-Finally, I will use clustering analysis to make sense of the relationships between cities. This will involve k-means by also hierarchical clustering—the former to understand broad groups and the latter to understand narrow dyads or triads.
+Finally, I will use clustering analysis to make sense of the relationships between cities. This will involve k-means by also hierarchical clustering—the former to understand broad groups and the latter to understand narrow dyads or triads. The similarity score will likely use a k-nearest neighbors distance calculation, borrowing from sports analytics, allowing us to make tables of first, second, and third most similar cities for any given city. Cities that are closest together are in a multidimensional space are more similar; cities farthest away are less similar.   
 
 ## Requirements
 
-This project will use clustering and network analysis (requirement 5), will perform complex operations by using functional programming to aggregate data from many urban cores (requirement 4), and will require data from multiple sources, using not just `osmnx` but also population and vegetation data (requirement 3). 
+This project will use clustering and network analysis (requirement 5), will perform complex operations by using functional programming to aggregate data from many urban cores (requirement 4), and will require data from multiple sources, using not just `osmnx` but also population and vegetation data (requirement 3).
